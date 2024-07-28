@@ -1,0 +1,54 @@
+.iphone1{
+
+border:solid 1px rgb(182, 181, 181);
+float:left;
+width:23%;
+margin:5px 5px;
+padding: 5px 5px;
+}
+
+.clear{
+    clear:both;
+}
+
+img{
+
+   width: 95%;
+    padding:5px 5px;
+}
+.par{
+   display:inline-block;
+   color:green;
+   font-weight:  bold;
+
+}
+
+.par_2{
+
+    display:inline-block;
+    color:red;
+    font-weight:  bold;
+    font-size: 12px;
+text-decoration: line-through;
+
+}
+
+
+
+#bag{
+
+background-color: blueviolet;
+
+color: white;
+border-color: blueviolet;
+width: 75%;
+padding:10px 1px;
+margin: 5px;
+
+}
+#heart{
+
+    padding:10px 1px;
+    margin: 2px;
+width: 15%;
+}
